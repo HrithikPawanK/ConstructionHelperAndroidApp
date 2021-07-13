@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446771480217",
+    "firebase_url": "https://constructionhelper-5923f-default-rtdb.firebaseio.com",
+    "project_id": "constructionhelper-5923f",
+    "storage_bucket": "constructionhelper-5923f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446771480217:android:70a80ceeffcb748c5f1a08",
+        "android_client_info": {
+          "package_name": "com.example.constructionhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446771480217-b9a04picnmtfjddhotlbp1qcmj0shu5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.constructionhelper",
+            "certificate_hash": "bc62916bbc6ebc93a01de44b91a7a7f9b5d887be"
+          }
+        },
+        {
+          "client_id": "446771480217-3o5d4g633atrspvoguj79pqmmnmdk8lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNX4G4GBedPSy_c2m7hef-GZUz4NJToYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446771480217-3o5d4g633atrspvoguj79pqmmnmdk8lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

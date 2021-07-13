@@ -1,0 +1,2 @@
+rootProject.name = "Construction Helper"
+include ':app'
